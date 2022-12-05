@@ -1,0 +1,26 @@
+{
+    "c1": {
+        "server_port": 8000,
+        "transaction_input_port": 9000,
+        "pending_transaction_display_port": 9001,
+        "block_display_port": 9002,
+        "minor": "no",
+        "initial_balance": 100
+    },
+    "c2": {
+        "server_port": 8001,
+        "transaction_input_port": 9010,
+        "pending_transaction_display_port": 9011,
+        "block_display_port": 9012,
+        "minor": "yes",
+        "initial_balance": 100
+    },
+    "c3": {
+        "server_port": 8002,
+        "transaction_input_port": 9020,
+        "pending_transaction_display_port": 9021,
+        "block_display_port": 9022,
+        "minor": "no",
+        "initial_balance": 100
+    }     
+}
